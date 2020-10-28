@@ -5,4 +5,4 @@ A quick 20-second carnival-style video game based on controlling the amount of f
 [Check Out a Video of the Event Demonstration Here](https://youtu.be/4nQnpHZrpA8)
 
 # Note
-This project was created during the Global Game Jam 2020 hackathon. Information regarding hardware used will be included soon.
+Information regarding hardware used will be included soon.
